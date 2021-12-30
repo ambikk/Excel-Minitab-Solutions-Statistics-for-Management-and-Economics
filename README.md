@@ -18,7 +18,7 @@ This excel covers the below chapters
 - Introduction to Estimation
 - Introduction to Hypothesis Testing 
 - Inference about a Population
-## Problem set 2 (Applied Stats)
+## Problem set 1 (Applied Stats)
 This excel covers the below chapters
 - What Is Statistics?
 - Graphical Descriptive Techniques 
